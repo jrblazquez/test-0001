@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: jrblazquez-test-0001
+owner: jrblazquez
+package: .
